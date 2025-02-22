@@ -1,0 +1,5 @@
+[project]
+name = "cli-faq-shortcuts"
+version = "0.1.0"
+description = "Turn repeated Claude Code, Codex, and Cursor prompts into reusable slash commands. Local Python history extractor + Agent Skill."
+requires-python = ">=3.10"
