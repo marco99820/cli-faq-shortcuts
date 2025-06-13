@@ -5,3 +5,4 @@ dist/
 build/
 *.tmp
 tmp/
+.pytest_cache/
